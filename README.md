@@ -7,7 +7,10 @@ Using the imbalanced-learn and scikit-learn algorithms:
 - RandomOverSampler
 - ClusterCentroids
 - SMOTEENN 
+
+
 we oversampled and undersampled credit card data provided by the LendingClub then analized the data using the
+
 - LogisticRegression
 - BalancedRandomForestClassifier
 - EasyEnsembleClassifier 
