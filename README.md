@@ -14,7 +14,8 @@ we oversampled and undersampled credit card data provided by the LendingClub the
 - LogisticRegression
 - BalancedRandomForestClassifier
 - EasyEnsembleClassifier 
-models provided by the same libraries. Finnally we evaluated the performance of each model
+
+models provided by the same libraries. Finnally we evaluated the performance of each model and provided the results below
 
 # Results
 
