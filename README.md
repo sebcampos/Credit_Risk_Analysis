@@ -2,7 +2,16 @@
 
 # Overview
 
-Using the imbalanced-learn and scikit-learn algorithms (SMOTE, RandomOverSampler,ClusterCentroids, and SMOTEENN) we oversampled and undersampled credit card data provided by the LendingClub then analized the data using LogisticRegression, BalancedRandomForestClassifier, and EasyEnsembleClassifier models provided by the same libraries. Finnally we evaluated the performance of each model
+Using the imbalanced-learn and scikit-learn algorithms: 
+- SMOTE
+- RandomOverSampler
+- ClusterCentroids
+- SMOTEENN 
+we oversampled and undersampled credit card data provided by the LendingClub then analized the data using the
+- LogisticRegression
+- BalancedRandomForestClassifier
+- EasyEnsembleClassifier 
+models provided by the same libraries. Finnally we evaluated the performance of each model
 
 # Results
 
